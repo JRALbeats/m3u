@@ -1,174 +1,88 @@
 #EXTM3U
 
 #EXTINF:-1, BeIn Sports 1 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506552&extension=ts&play_token=c7TdFYS5Y8
 #EXTINF:-1, BeIn Sports 2 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506551&extension=ts&play_token=tuV1baqnbk
 #EXTINF:-1, BeIn Sports 3 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506550&extension=ts&play_token=mSlKz7CnPq
 #EXTINF:-1, Canal+ FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506635&extension=ts&play_token=Fgw4IL8woj
 #EXTINF:-1, Canal+ Foot FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=1002837&extension=ts&play_token=MS7QUAb191
 #EXTINF:-1, Canal+ Sport 360 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=1002841&extension=ts&play_token=E3PsLBKPao
 #EXTINF:-1, Canal+ Sport FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506557&extension=ts&play_token=Na10Y7wPqN
 #EXTINF:-1, Infosport+ FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506562&extension=ts&play_token=rF3t0WdO1e
 #EXTINF:-1, RMC Sport 1 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506549&extension=ts&play_token=97vbL7A4if
 #EXTINF:-1, RMC Sport 2 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:2E:AE:51&stream=506548&extension=ts&play_token=U4KEz9AjcD
 #EXTINF:-1, TNT Sports
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?ManoTV
 #EXTINF:-1, ESPN HD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://51.83.238.223:16515/
 #EXTINF:-1, ESPN FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://94.130.165.243:14515/
 #EXTINF:-1, ESPN 4K
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/130
 #EXTINF:-1, ESPN 3 HD [Alter]
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/995
 #EXTINF:-1, ESPN 4 HD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://51.83.238.223:16575/
 #EXTINF:-1, ESPN 4 FHD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/899
 #EXTINF:-1, Band Sports HD
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1, ESPN PLUS 01
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113554
 #EXTINF:-1, ESPN PLUS 00
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113553
 #EXTINF:-1, ESPN PLUS 02
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113555
 #EXTINF:-1, ESPN PLUS 03
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113556
 #EXTINF:-1, ESPN PLUS 04
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113557
 #EXTINF:-1, ESPN PLUS 07
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113560
 #EXTINF:-1, ESPN PLUS 06
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113559
 #EXTINF:-1, ESPN PLUS 05
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113558
 #EXTINF:-1, LA LIGA TV
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113530
 #EXTINF:-1, ESPN PLUS 09
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113562
 #EXTINF:-1, ESPN PLUS 13
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113566
 #EXTINF:-1, ESPN PLUS 08
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000113561
 #EXTINF:-1, UKFHD Dazn PPV
-#EXTSIZE: Big
-#EXTBG: #11609e
 https://dumdumbullet.com/1011454237/bHg8wYxrId/20000116006
 #EXTINF:-1, NBA 01
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218898
 #EXTINF:-1, NBA 02
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218899
 #EXTINF:-1, NBA 03
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218922
 #EXTINF:-1, NBA 04
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218935
 #EXTINF:-1, NBA 05
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218936
 #EXTINF:-1, NBA 06
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218949
 #EXTINF:-1, NBA 07
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218951
 #EXTINF:-1, NBA 08
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218952
 #EXTINF:-1, NBA 09
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218997
 #EXTINF:-1, NBA 10
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://5ce.co:80/Ctina2718/Tina3619/218998
 #EXTINF:-1, NBA tv
-#EXTSIZE: Big
-#EXTBG: #11609e
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63308_&extension=ts
-#EXTINF:-1, NBA tv 🇺🇸
-#EXTSIZE: Big
-#EXTBG: #11609e
+#EXTINF:-1, NBA tv 2
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2309&amp;f=.m3u8
