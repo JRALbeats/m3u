@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Oppenheimer (2023)
+#EXTINF:0 , Oppenheimer1
 http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3sBDJ2K" group-title="FILMES", Oppenheimer (2023)
+#EXTINF:-1 , Oppenheimer2
 https://fv5-3.failiem.lv/Files.fm_2023-11-10_file_ru56djqnsh/Oppenheimer.mp4?PHPSESSID=fda43f2b040e8059729311fb1701ad51a7b216ef
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" tvg-country="" tvg-url="" group-title="",Oppenheimer                    
+#EXTINF:-1 , Oppenheimer3                   
 http://103.145.76.250/Data/movies/hollywood/2023/Oppenheimer%20(2023)/Oppenheimer.mp4
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEMA_XXI",Oppenheimer_2023_dec=hardware
+#EXTINF:-1 , Oppenheimer4
 https://www.nonton168.com/movies/desember2022/Oppenheimer.2023.1080p.HDTS.x264.IDFL.mp4
+
+#EXTINF:-1 , Oppenheimer5
+http://210.54.35.157:9000/Oppenheimer.2023.1080p.BluRay.DD5.1.x264-LAMA/Oppenheimer.2023.1080p.BluRay.DD5.1.x264-LAMA.mkv
